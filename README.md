@@ -13,7 +13,7 @@ java Main
 # Exercícios:
 
 Em Java, implemente a aplicação abaixo.
-Em Markdown, explique suas soluções.
+Em Markdown, explique sua solução.
 
 ## 1) Gerenciador de Downloads (DownloadManager)
 
