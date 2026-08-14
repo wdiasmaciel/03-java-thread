@@ -1,3 +1,5 @@
+package tarefa;
+
 public class Tarefa implements Runnable {
     private String nome;
 
