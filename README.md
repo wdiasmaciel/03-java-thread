@@ -25,7 +25,7 @@ Você foi contratado para criar um sistema básico de downloads. O sistema deve 
 
 Renomeie a classe para Download.
 
-Adicione um novo atributo privado no construtor chamado int totalEtapas (em vez de fixar o loop em 5, cada download terá seu próprio número de etapas/tamanho).
+Adicione um novo atributo privado no construtor chamado `int totalEtapas` (em vez de fixar o loop em 5, cada download terá seu próprio número de etapas/tamanho).
 
 Atualize as mensagens na tela para fazerem sentido com um download (ex: "Download [Nome] baixando parte X de Y...").
 
